@@ -3,5 +3,4 @@ Git is a distributed version control system.
  Git is changed.
 Git is changed again.
 Git is 666.
-
-createing a branch is quick.
+createing a new branch is quick.
